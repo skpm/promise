@@ -1,14 +1,14 @@
 {
-  "name": "@skpm/process",
-  "version": "0.1.3",
-  "description": "Drop-in replacement for the process NodeJS global",
+  "name": "@skpm/promise",
+  "version": "0.1.0",
+  "description": "A Promise polyfill for Sketch",
   "main": "index.js",
   "scripts": {
     "test": "skpm-test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skpm/process.git"
+    "url": "git+https://github.com/skpm/promise.git"
   },
   "keywords": [
     "sketch",
@@ -18,9 +18,9 @@
   "author": "Mathieu Dutour <mathieu@dutour.me> (http://mathieu.dutour.me/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/skpm/process/issues"
+    "url": "https://github.com/skpm/promise/issues"
   },
-  "homepage": "https://github.com/skpm/process#readme",
+  "homepage": "https://github.com/skpm/promise#readme",
   "devDependencies": {
     "@skpm/test-runner": "^0.4.0"
   }
